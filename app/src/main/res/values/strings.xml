@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Les Fragments</string>
+    <!-- Placeholder text for this example. -->
+    <string name="title1">T\'en souviens-tu, Godin?</string>
+    <string name="poem1">
+        T\'en souviens-tu, Godin
+        astheure que t\'es député
+        t\'en souviens-tu
+        de l\'homme qui frissonne
+        qui attend l\'autobus du petit matin
+        après son chiffre de nuit
+        t\'en souviens-tu des mal pris
+        qui sont sul\'bien-être
+        de celui qui couche dans la neige
+        des trop vieux pour travailler
+        qui sont trop jeunes pour la pension
+        des mille métiers mille misères
+        l\'amiantosé le cotonisé
+        le byssinosé le silicosé
+        celui qui tousse sa journée
+        celui qui crache sa vie
+        celui qui s\'arrache les poumons celui qui râle dans sa cuisine
+        celui qui se plogue sur sa bonbonne d\'oxygène
+        il n\'attend rien d\'autre
+        que l\'bon dieu vienne le chercher
+        t\'en souviens-tu
+        des pousseurs de moppes
+        des ramasseurs d\'urine
+        dans les hôpitaux
+        ceux qui ont deux jobbes
+        une pour la nuitte
+        une pour le jour
+        pour arriver à se bûcher
+        une paie comme du monde
+        t\'en souviens-tu, Godin
+        qu\'il faut rêver aujourd\'hui
+        pour savoir ce qu\'on fera demain?
+
+        Gérald Godin
+
+        Les botterlots, Montréal, L\'Hexagone, 1993, 80 p.
+    </string>
+    <string name="title2">CantouqueR" - Cantouque menteur</string>
+    <string name="poem2">
+        Comment pourrais-je coucher avec toi
+        m\'allonger du long de ton flanc doux
+        t\'embrasser les seins te mordiller les tétins
+        si je n\'étais indépendantiste ô mon amour
+        comment pourrais-je porter mes chnolles
+        et m\'en servir au besoin quand le désir me vient
+        être un homme et me tenir debout et droit
+        si je n\'étais indépendantiste ô mon amour
+        comment pourrais-je parler français
+        comme mes voisins mes pareils
+        fouler la boue du pays l\'appeler mienne
+        la traîner à mes semelles m\'en targuer m\'en vanter
+        m\'en mettre plein la vue m\'en ennuyer
+        me sentir chez moi sinon aujourd\'hui du moins demain
+        si je n\'étais indépendantiste ô mon amour
+        comment pourrais-je vivre oser respirer encore
+        l\'air pollué de mon pays vaincu
+        l\'avenir bouché de mon pays anglichié
+        supporter la brûlure des Plaines l\'incendie des drapeaux
+        le bris des épées l\'exil de trente-sept
+        comment pourrais-je oser t\'aimer te toucher
+        même lever les yeux vers toi
+        connaître ne serait-ce que ton nom
+        si je n\'avais à coeur qu\'un jour sinon nous du moins nos fils
+        soient ici chez eux sur la terre que d\'aïeul à petit-fils
+        nous aimons
+
+        Gérald Godin
+    </string>
+
+    <!-- Texte pour le fragment. -->
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="yes_message">Poème: Aimer</string>
+    <string name="no_message">Poème: Merci</string>
+    <string name="question_poem">Aimez-vous le poème?</string>
+
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
